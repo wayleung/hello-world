@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi!I am Way Leung.
+
+I'm testing the branches.
+
+Bye!
